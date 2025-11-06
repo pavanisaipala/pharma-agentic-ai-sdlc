@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+redis
+pydantic
+httpx
+openai
+pytest
+flake8
+bandit
